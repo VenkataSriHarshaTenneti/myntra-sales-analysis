@@ -16,8 +16,6 @@ The workflow covers **data cleaning, validation, SQL analysis, and dashboard vis
 
 ---
 
----
-
 ## ❓ Business Problem
 
 E-commerce platforms like Myntra generate large volumes of sales data, but without proper analysis, it is difficult to extract actionable insights.  
