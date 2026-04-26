@@ -166,6 +166,6 @@ This project demonstrates the ability to:
 
 ## 📬 Contact
 
-Feel free to connect or reach out for feedback!
+If you have any feedback or suggestions, feel free to connect with me on LinkedIn at www.linkedin.com/in/sri-harsha-tenneti-venkata.
 
 ---
