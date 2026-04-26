@@ -1,10 +1,28 @@
 # 🛍️ Myntra Sales Data Analysis & Dashboard
 
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+---
+
 ## 📌 Project Overview
 
 This project analyzes Myntra sales data to uncover key business insights related to revenue trends, customer behavior, product performance, and logistics efficiency.
 
 The workflow covers **data cleaning, validation, SQL analysis, and dashboard visualization**, showcasing an end-to-end data analytics pipeline.
+
+---
+
+---
+
+## ❓ Business Problem
+
+E-commerce platforms like Myntra generate large volumes of sales data, but without proper analysis, it is difficult to extract actionable insights.  
+
+This project aims to analyze sales data to identify revenue drivers, customer behavior patterns, and operational efficiency.
 
 ---
 
@@ -107,10 +125,6 @@ FROM myntra_sales;
 * Over **90% of orders are successfully shipped**, highlighting strong logistics efficiency
 
 ---
-
-## 📸 Dashboard Preview
-
-![Dashboard](images/dashboard.png)
 
 ---
 
