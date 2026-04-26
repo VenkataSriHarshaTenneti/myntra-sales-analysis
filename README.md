@@ -126,11 +126,11 @@ FROM myntra_sales;
 
 ## 🚀 How to Run This Project
 
-1. Clean data using Python (Colab notebook)
-2. Load cleaned data into PostgreSQL
-3. Run SQL queries for analysis
-4. Connect Power BI to PostgreSQL
-5. Build dashboard using visuals
+1. Clone the repository
+2. Open the Python notebook in Google Colab and run data cleaning steps
+3. Import the cleaned dataset into PostgreSQL
+4. Execute SQL queries from the `sql/` folder
+5. Open the Power BI file (`.pbix`) to view the dashboard
 
 ---
 
