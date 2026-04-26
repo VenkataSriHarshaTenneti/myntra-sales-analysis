@@ -124,8 +124,6 @@ FROM myntra_sales;
 
 ---
 
----
-
 ## 🚀 How to Run This Project
 
 1. Clean data using Python (Colab notebook)
