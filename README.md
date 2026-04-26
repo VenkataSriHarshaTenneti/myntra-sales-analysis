@@ -144,6 +144,15 @@ FROM myntra_sales;
 
 ---
 
+## 🔮 Future Improvements
+
+- Add customer segmentation analysis  
+- Build predictive models for sales forecasting  
+- Integrate real-time data pipeline  
+- Enhance dashboard with drill-through and filters
+
+---
+
 ## 💼 Why This Project Matters
 
 This project demonstrates the ability to:
